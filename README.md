@@ -13,12 +13,12 @@ This folder contains a collection of reusable utility functions. Below is a list
 - **capitalizeFirstLetter**: Capitalizes the first letter of a string.
 - **generateRandomString**: Generates a random string of specified length.
 
-## Array Utilities (`arrayUtils.js`)
+### Array Utilities (`arrayUtils.js`)
 
 - **removeDuplicates**: Removes duplicate elements from an array.
 - **shuffleArray**: Shuffles the elements of an array randomly.
 
-## Object Utilities (`objectUtils.js`)
+### Object Utilities (`objectUtils.js`)
 
 - **deepClone**: Creates a deep clone of an object.
 - **mergeObjects**: Merges two objects into one.
